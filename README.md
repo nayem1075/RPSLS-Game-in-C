@@ -47,11 +47,17 @@ Basic functions
 
 ## About Me
 I’m Nayem Uddin, a student of Computer Science and Engineering at the
+
 University of Science and Technology, Chittagong.
+
 This was one of the first programs I made while learning C in my 1st semester. It helped me build confidence in writing logical code and understanding conditions.
 
 ## Author Credit
 This project was created under the guidance of:
+
 Priyanka Das
+
 Lecturer, Department of Computer Science and Engineering
+
 University of Science and Technology, Chittagong
+
