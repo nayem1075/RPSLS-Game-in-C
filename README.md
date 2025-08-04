@@ -38,8 +38,11 @@ Compile using any C compiler like Codeblocks or VsCode
 if-else and switch-case statements
 
 rand() function for randomness
+
 Loops (while, for)
+
 User input/output
+
 Basic functions
 
 ## About Me
