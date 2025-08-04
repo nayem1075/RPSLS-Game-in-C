@@ -8,23 +8,14 @@ This game expands the classic Rock-Paper-Scissors by adding Lizard and Spock, ma
 The extended rules are:
 
 Rock crushes Scissors
-
 Scissors cuts Paper
-
 Paper covers Rock
-
 Rock crushes Lizard
-
 Lizard poisons Spock
-
 Spock smashes Scissors
-
 Scissors decapitates Lizard
-
 Lizard eats Paper
-
 Paper disproves Spock
-
 Spock vaporizes Rock
 
 The game compares the choices of the user and the computer and displays the result.
@@ -33,11 +24,8 @@ The game compares the choices of the user and the computer and displays the resu
 Written in C using basic conditionals and logic
 
 Simple terminal-based interface
-
 Random computer choice
-
 Score tracking between user and computer
-
 Clear display of each round’s outcome
 
 ## How to Run
@@ -50,11 +38,8 @@ Compile using any C compiler like Codeblocks or VsCode
 if-else and switch-case statements
 
 rand() function for randomness
-
 Loops (while, for)
-
 User input/output
-
 Basic functions
 
 ## About Me
